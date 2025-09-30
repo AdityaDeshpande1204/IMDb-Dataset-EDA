@@ -24,5 +24,11 @@ Built with **Python, pandas, matplotlib, and seaborn**.
 - Jupyter Notebook
 
 ---
-
 ## 📂 Project Structure
+
+- IMDB-Movie-Data.csv
+- Analysis.ipynb
+- requirements.txt
+- README.md
+
+---
