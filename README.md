@@ -1,23 +1,27 @@
 # 🎬 IMDb Movie Dataset Analysis
 
-This project explores and visualizes insights from the IMDb Movie Dataset. Using Python libraries like **pandas, matplotlib, and seaborn**, the analysis uncovers trends in movie ratings, votes, revenues, and genres.
+![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+
+Analyze and visualize the IMDb Movie Dataset to uncover trends in ratings, votes, revenues, and genres.  
+Built with **Python, pandas, matplotlib, and seaborn**.
 
 ---
 
-## 📊 Features of Analysis
-- Identify **top-rated and most-voted movies**
-- Analyze **movie genres** and their ratings
-- Discover **yearly trends** in movie production and ratings
-- Explore **correlations** between ratings, votes, and revenues
-- Visualize data with **clear charts and graphs**
+## ✨ Features
+- 📌 Identify **top-rated & most-voted movies**
+- 🎭 Analyze **genre popularity and average ratings**
+- 📈 Explore **yearly trends** in movie production
+- 💰 Correlate **revenue vs ratings/votes**
+- 🔥 Generate **visualizations** (bar charts, scatter plots, heatmaps)
 
 ---
 
-## 🛠️ Tools & Libraries
-- Python 3  
-- pandas, numpy  
-- matplotlib, seaborn  
-- Jupyter Notebook  
+## 🛠️ Tech Stack
+- Python 3.8+
+- pandas, numpy
+- matplotlib, seaborn
+- Jupyter Notebook
 
 ---
 
