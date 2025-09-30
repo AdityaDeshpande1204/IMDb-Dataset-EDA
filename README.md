@@ -28,6 +28,7 @@ Built with **Python, pandas, matplotlib, and seaborn**.
 
 - IMDB-Movie-Data.csv
 - Analysis.ipynb
+- Python Script.py
 - requirements.txt
 - README.md
 
